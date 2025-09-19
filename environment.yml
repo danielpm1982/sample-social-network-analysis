@@ -1,0 +1,14 @@
+name: /home/daniel/anaconda-workspace/sample-social-network-analysis/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - pandas
+  - python
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - igraph
+  - pycairo
+prefix: /home/daniel/anaconda-workspace/sample-social-network-analysis/env
